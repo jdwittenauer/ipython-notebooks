@@ -7,4 +7,5 @@ I'm planning to use IPython notebooks to show the steps needed to arrive at a so
 
 Notebook viewer links are below.
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera-machinelearning/blob/master/00-Intro.ipynb">00 - Intro, NumPy, SciPy, Matplotlib<a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera-machinelearning/blob/master/01-Intro.ipynb">01 - Intro, NumPy, SciPy, Matplotlib<a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera-machinelearning/blob/master/02-Advanced.ipynb">02 - Pandas, Statsmodels, Scikit-learn<a>
