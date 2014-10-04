@@ -11,4 +11,4 @@ Notebook viewer links are below.
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/02-Advanced.ipynb">02 - Pandas, Statsmodels, Scikit-learn<a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/03-Other.ipynb">03 - Seaborn, NLTK, PyMC<a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/04-Exercise1.ipynb">04 - Exercise 1 - Linear Regression<a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/04-Exercise1.ipynb">05 - Exercise 2 - Logistic Regression<a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/05-Exercise2.ipynb">05 - Exercise 2 - Logistic Regression<a>
