@@ -3,7 +3,7 @@ coursera
 
 This repo is for code related to Andrew Ng's machine learning class on Coursera.  
 
-In addition to solving the programming exercises in Octave (not included here), I'm slowly adding Python solutions using IPython notebooks to show the steps needed for each of the exercises.  I've also included some "intro" notebooks that include useful examples from the python language and data science tool stack.
+In addition to solving the programming exercises in Octave (not included here), I'm working on Python solutions using IPython notebooks to show the steps needed for each of the exercises.  I've also created some notebooks that include useful examples from the python language and popular libraries from the data science tool stack.
 
 Notebook viewer links are below.
 
