@@ -1,14 +1,29 @@
-coursera
+ipython-notebooks
 ========================
 
-This repo is for code related to Andrew Ng's machine learning class on Coursera.  
+This repo contains various IPython notebooks I've created to experiment with libraries and work through exercises.
 
-In addition to solving the programming exercises in Octave (not included here), I'm working on Python solutions using IPython notebooks to show the steps needed for each of the exercises.  I've also created some notebooks that include useful examples from the python language and popular libraries from the data science tool stack.
+I'm currently working on a series of notebooks covering the programming exercises from Andrew Ng's machine learning class on Coursera.
 
-Notebook viewer links are below.
+To see the content live over the web, I've included notebook viewer links below.
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/01-Intro.ipynb">01 - Intro, NumPy, SciPy, Matplotlib<a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/02-Advanced.ipynb">02 - Pandas, Statsmodels, Scikit-learn<a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/03-Other.ipynb">03 - Seaborn, NLTK, PyMC<a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/04-Exercise1.ipynb">04 - Exercise 1 - Linear Regression<a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/coursera/blob/master/05-Exercise2.ipynb">05 - Exercise 2 - Logistic Regression<a>
+#### Language
+
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Intro.ipynb">Introduction To Python</a>
+
+#### Libraries
+
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/NumPy.ipynb">NumPy</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/SciPy.ipynb">SciPy</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Matplotlib.ipynb">Matplotlib</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Pandas.ipynb">Pandas</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Statsmodels.ipynb">Statsmodels</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Scikit-learn.ipynb">Scikit-learn</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Seaborn.ipynb">Seaborn</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/PyMC.ipynb">PyMC</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/NLTK.ipynb">NLTK</a>
+
+#### Machine Learning Exercises
+
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise1.ipynb">Exercise 1 - Linear Regression</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise1.ipynb">Exercise 2 - Logistic Regression</a>
