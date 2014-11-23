@@ -26,4 +26,4 @@ To see the content live over the web, I've included notebook viewer links below.
 #### Machine Learning Exercises
 
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise1.ipynb">Exercise 1 - Linear Regression</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise1.ipynb">Exercise 2 - Logistic Regression</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise2.ipynb">Exercise 2 - Logistic Regression</a>
