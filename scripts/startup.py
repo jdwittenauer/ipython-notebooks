@@ -3,26 +3,29 @@
 Start-up script for interactive data science in Python.
 """
 
-import os,random,string,math,time,csv,pickle
-import numpy
+import os
+import random
+import string
+import math
+import time
+import csv
+import pickle
 import numpy as np
-import scipy
 import scipy as sp
-import matplotlib
 import matplotlib as mpl
-import matplotlib.pyplot as pyplot
 import matplotlib.pyplot as plt
-import matplotlib.pylab as pylab
-import matplotlib.mlab as mlab
+import seaborn as sb
 import pandas as pd
 import statsmodels.api as sm
 import sklearn as skl
-import seaborn as sb
 
 from numpy import *
 from scipy import *
+from matplotlib import *
+from matplotlib.pyplot import *
+from seaborn import *
 from pandas import *
 from statsmodels.api import *
 from sklearn import *
-from seaborn import *
+
 from patsy import dmatrices
