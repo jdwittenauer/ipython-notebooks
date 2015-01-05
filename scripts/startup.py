@@ -32,11 +32,11 @@ from pandas import *
 from statsmodels.api import *
 from sklearn import *
 from nltk import *
-from patsy import dmatrices
+from patsy import *
 from bs4 import BeautifulSoup
 
 # these are installed separately with conda or pip
-import gensim as gn
+import gensim as gs
 import seaborn as sb
 from gensim import *
 from seaborn import *
