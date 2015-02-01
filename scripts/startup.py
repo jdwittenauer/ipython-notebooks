@@ -23,6 +23,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import statsmodels.api as sm
 import sklearn as skl
+import networkx as nx
 import nltk
 from numpy import *
 from scipy import *
@@ -31,6 +32,7 @@ from matplotlib.pyplot import *
 from pandas import *
 from statsmodels.api import *
 from sklearn import *
+from networkx import *
 from nltk import *
 from patsy import *
 from bs4 import BeautifulSoup
