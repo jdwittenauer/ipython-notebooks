@@ -37,11 +37,12 @@ from nltk import *
 from patsy import *
 from bs4 import BeautifulSoup
 
-# these are installed separately with conda or pip
+# these are installed separately
 import gensim as gs
 import seaborn as sb
 from gensim import *
 from seaborn import *
+from mpl_toolkits.basemap import Basemap
 
 # these are installed separately and only run on Linux
 # import pymc
