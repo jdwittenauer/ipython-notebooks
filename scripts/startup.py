@@ -37,6 +37,9 @@ from nltk import *
 from patsy import *
 from bs4 import BeautifulSoup
 
+# install pyodbc to use this with SQL Server
+from sqlalchemy import *
+
 # these are installed separately
 import gensim as gs
 import seaborn as sb
@@ -45,11 +48,11 @@ from seaborn import *
 from mpl_toolkits.basemap import Basemap
 
 # these are installed separately and only run on Linux
-# import pymc
-# from pymc import *
+import pymc
+from pymc import *
 
 # these are built directly from source and only run on Linux
-# import xgboost as xgb
-# import pylearn2 as pl2
-# from xgboost import *
-# from pylearn2 import *
+import xgboost as xgb
+import pylearn2 as pl2
+from xgboost import *
+from pylearn2 import *
