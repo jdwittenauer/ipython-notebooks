@@ -53,6 +53,6 @@ from pymc import *
 
 # these are built directly from source and only run on Linux
 import xgboost as xgb
-import pylearn2 as pl2
+import keras as ks
 from xgboost import *
-from pylearn2 import *
+from keras import *
