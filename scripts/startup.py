@@ -20,39 +20,23 @@ import numpy as np
 import scipy as sp
 import matplotlib as mpl
 import matplotlib.pyplot as plt
+import sqlalchemy as sql
 import pandas as pd
 import statsmodels.api as sm
 import sklearn as skl
 import networkx as nx
 import nltk
-from numpy import *
-from scipy import *
-from matplotlib import *
-from matplotlib.pyplot import *
-from pandas import *
-from statsmodels.api import *
-from sklearn import *
-from networkx import *
-from nltk import *
-from patsy import *
-from bs4 import BeautifulSoup
-
-# install pyodbc to use this with SQL Server
-from sqlalchemy import *
 
 # these are installed separately
+import pyodbc
+import deap
 import gensim as gs
 import seaborn as sb
-from gensim import *
-from seaborn import *
-from mpl_toolkits.basemap import Basemap
+import mpl_toolkits.basemap as bmap
 
 # these are installed separately and only run on Linux
-import pymc
-from pymc import *
+import pymc3
 
 # these are built directly from source and only run on Linux
 import xgboost as xgb
 import keras as ks
-from xgboost import *
-from keras import *
