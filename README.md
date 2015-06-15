@@ -29,4 +29,4 @@ To see the content live over the web, I've included notebook viewer links below.
 
 #### Misc
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/TimeSeriesStockAnalysis">A Simple Time Series Analysis of the S&P 500 Index</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/TimeSeriesStockAnalysis.ipynb">A Simple Time Series Analysis of the S&P 500 Index</a>
