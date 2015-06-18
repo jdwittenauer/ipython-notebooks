@@ -20,7 +20,8 @@ To see the content live over the web, I've included notebook viewer links below.
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Seaborn.ipynb">Seaborn</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/NetworkX.ipynb">NetworkX</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/PyMC.ipynb">PyMC</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/NLTK.ipynb">NLTK</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/NLTK.ipynb">NLTK</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/DEAP.ipynb">DEAP</a>
 
 #### Machine Learning Exercises
 
