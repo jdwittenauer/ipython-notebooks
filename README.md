@@ -7,7 +7,8 @@ To see the content live over the web, I've included notebook viewer links below.
 
 #### Language
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Intro.ipynb">Introduction To Python</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Intro.ipynb">Introduction To Python</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/IPythonMagic.ipynb">IPython Magic Commands</a>
 
 #### Libraries
 
