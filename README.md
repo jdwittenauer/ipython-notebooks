@@ -31,4 +31,5 @@ To see the content live over the web, I've included notebook viewer links below.
 
 #### Misc
 
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/CodeOptimization.ipynb">Comparison Of Various Code Optimization Methods</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/TimeSeriesStockAnalysis.ipynb">A Simple Time Series Analysis of the S&P 500 Index</a>
