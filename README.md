@@ -1,16 +1,18 @@
 ipython-notebooks
 ========================
 
-This repo contains various IPython notebooks I've created to experiment with libraries and work through exercises.
-
-To see the content live over the web, I've included notebook viewer links below.
+This repo contains various IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting.  I've included notebook viewer links below.  Click the link to see a live rendering of the notebook.
 
 #### Language
+
+These notebooks contain introductory content such as an overview of the language and a review of IPython's functionality.
 
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Intro.ipynb">Introduction To Python</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/IPythonMagic.ipynb">IPython Magic Commands</a>
 
 #### Libraries
+
+Demonstrations and use cases for many of the most widely used "data science" Python libraries.
 
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/NumPy.ipynb">NumPy</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/SciPy.ipynb">SciPy</a><br/>
@@ -27,10 +29,14 @@ To see the content live over the web, I've included notebook viewer links below.
 
 #### Machine Learning Exercises
 
+Implementations of the exercises presented in Andrew Ng's "Machine Learning" class on Coursera.
+
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise1.ipynb">Exercise 1 - Linear Regression</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise2.ipynb">Exercise 2 - Logistic Regression</a>
 
 #### Misc
+
+Notebooks covering various interesting topics!
 
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/CodeOptimization.ipynb">Comparison Of Various Code Optimization Methods</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/TimeSeriesStockAnalysis.ipynb">A Simple Time Series Analysis of the S&P 500 Index</a><br/>
