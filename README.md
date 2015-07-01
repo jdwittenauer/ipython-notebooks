@@ -34,4 +34,5 @@ To see the content live over the web, I've included notebook viewer links below.
 
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/CodeOptimization.ipynb">Comparison Of Various Code Optimization Methods</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/TimeSeriesStockAnalysis.ipynb">A Simple Time Series Analysis of the S&P 500 Index</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ProbablisticProgramming.ipynb">An Intro To Probablistic Programming</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/LanguageVectors.ipynb">Language Exploration Using Vector Space Models</a>
