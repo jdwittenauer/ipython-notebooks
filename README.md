@@ -34,7 +34,10 @@ Implementations of the exercises presented in Andrew Ng's "Machine Learning" cla
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise1.ipynb">Exercise 1 - Linear Regression</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise2.ipynb">Exercise 2 - Logistic Regression</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise3.ipynb">Exercise 3 - Multi-Class Classification</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise4.ipynb">Exercise 4 - Neural Networks</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise4.ipynb">Exercise 4 - Neural Networks</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise6.ipynb">Exercise 6 - Support Vector Machines</a> (in progress)<br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise7.ipynb">Exercise 7 - K-Means Clustering & PCA</a> (in progress)<br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise8.ipynb">Exercise 8 - Anomaly Detection & Recommendation Systems</a> (in progress)
 
 #### Misc
 
