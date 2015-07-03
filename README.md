@@ -33,7 +33,8 @@ Implementations of the exercises presented in Andrew Ng's "Machine Learning" cla
 
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise1.ipynb">Exercise 1 - Linear Regression</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise2.ipynb">Exercise 2 - Logistic Regression</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise3.ipynb">Exercise 3 - Multi-Class Classification</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise3.ipynb">Exercise 3 - Multi-Class Classification</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise4.ipynb">Exercise 4 - Neural Networks</a>
 
 #### Misc
 
