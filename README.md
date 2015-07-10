@@ -37,7 +37,7 @@ Implementations of the exercises presented in Andrew Ng's "Machine Learning" cla
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise4.ipynb">Exercise 4 - Neural Networks</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise6.ipynb">Exercise 6 - Support Vector Machines</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise7.ipynb">Exercise 7 - K-Means Clustering & PCA</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise8.ipynb">Exercise 8 - Anomaly Detection & Recommendation Systems</a> (in progress)
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise8.ipynb">Exercise 8 - Anomaly Detection & Recommendation Systems</a>
 
 #### Misc
 
