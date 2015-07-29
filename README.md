@@ -39,6 +39,16 @@ Implementations of the exercises presented in Andrew Ng's "Machine Learning" cla
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise7.ipynb">Exercise 7 - K-Means Clustering & PCA</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/ML-Exercise8.ipynb">Exercise 8 - Anomaly Detection & Recommendation Systems</a>
 
+#### Spark Big Data Labs
+
+Lab exercises for the Spark class on edX.  I think it's okay to post these now that the class has ended.  If you're running through the class content, you're probably better off solving these on your own first.
+
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-Lab0-Tutorial.ipynb">Lab 0 - Learning Apache Spark</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-Lab1-WordCount.ipynb">Lab 1 - Building A Word Count Application</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-Lab2-ApacheLog.ipynb">Lab 2 - Web Server Log Analysis</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-Lab3-EntityResolution.ipynb">Lab 3 - Text Analysis & Entity Resolution</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-Lab4-MachineLearning.ipynb">Lab 4 - Introduction To Machine Learning</a>
+
 #### Misc
 
 Notebooks covering various interesting topics!
