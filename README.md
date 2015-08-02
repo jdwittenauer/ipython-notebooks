@@ -50,6 +50,7 @@ Lab exercises for the Spark class on edX.  I think it's okay to post these now t
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-Lab4-MachineLearning.ipynb">Lab 4 - Introduction To Machine Learning</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-ML-Lab3-LinearRegression.ipynb">ML Lab 3 - Linear Regression</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-ML-Lab4-CriteoPrediction.ipynb">ML Lab 4 - Criteo Prediction</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/Spark-ML-Lab5-NeuroPCA.ipynb">ML Lab 5 - Neuro PCA</a>
 
 #### Misc
 
