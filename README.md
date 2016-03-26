@@ -39,6 +39,15 @@ Implementations of the exercises presented in Andrew Ng's "Machine Learning" cla
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise7.ipynb">Exercise 7 - K-Means Clustering & PCA</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/ml/ML-Exercise8.ipynb">Exercise 8 - Anomaly Detection & Recommendation Systems</a>
 
+#### Tensorflow Deep Learning Exercises
+
+Implementations of the assignments from Google's Udacity course on deep learning (in progress).
+
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-1-NotMNIST.ipynb">Assignment 1</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-2-FullyConnected.ipynb">Assignment 2</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-3-Regularization.ipynb">Assignment 3</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-4-Convolutions.ipynb">Assignment 4</a>
+
 #### Spark Big Data Labs
 
 Lab exercises for the Spark class on edX.  I think it's okay to post these now that the class has ended.  If you're running through the class content, you're probably better off solving these on your own first.
