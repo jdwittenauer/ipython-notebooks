@@ -43,10 +43,11 @@ Implementations of the exercises presented in Andrew Ng's "Machine Learning" cla
 
 Implementations of the assignments from Google's Udacity course on deep learning (in progress).
 
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-1-NotMNIST.ipynb">Assignment 1</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-2-FullyConnected.ipynb">Assignment 2</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-3-Regularization.ipynb">Assignment 3</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-4-Convolutions.ipynb">Assignment 4</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-1-NotMNIST.ipynb">Assignment 1 - Intro & Data Prep</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-2-FullyConnected.ipynb">Assignment 2 - Regression & Neural Nets</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-3-Regularization.ipynb">Assignment 3 - Regularization</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-4-Convolutions.ipynb">Assignment 4 - Convolutions</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-5-Word2Vec.ipynb">Assignment 5 - Word Embeddings</a>
 
 #### Spark Big Data Labs
 
