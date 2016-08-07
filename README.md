@@ -12,7 +12,7 @@ These notebooks contain introductory content such as an overview of the language
 
 #### Libraries
 
-Demonstrations and use cases for many of the most widely used "data science" Python libraries.
+Examples using a variety of popular "data science" Python libraries.
 
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb">NumPy</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/SciPy.ipynb">SciPy</a><br/>
@@ -41,7 +41,7 @@ Implementations of the exercises presented in Andrew Ng's "Machine Learning" cla
 
 #### Tensorflow Deep Learning Exercises
 
-Implementations of the assignments from Google's Udacity course on deep learning (NOTE: I did not complete the last assignment and may not get back to it for a while).
+Implementations of the assignments from Google's Udacity course on deep learning.
 
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-1-NotMNIST.ipynb">Assignment 1 - Intro & Data Prep</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/tensorflow/Tensorflow-2-FullyConnected.ipynb">Assignment 2 - Regression & Neural Nets</a><br/>
@@ -52,7 +52,7 @@ Implementations of the assignments from Google's Udacity course on deep learning
 
 #### Spark Big Data Labs
 
-Lab exercises for the Spark class on edX.  I think it's okay to post these now that the class has ended.  If you're running through the class content, you're probably better off solving these on your own first.
+Lab exercises for the original Spark classes on edX.
 
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-Lab0-Tutorial.ipynb">Lab 0 - Learning Apache Spark</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-Lab1-WordCount.ipynb">Lab 1 - Building A Word Count Application</a><br/>
