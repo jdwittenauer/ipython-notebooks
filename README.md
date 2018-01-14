@@ -74,4 +74,5 @@ Notebooks covering various interesting topics!
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/ProbablisticProgramming.ipynb">An Intro To Probablistic Programming</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/LanguageVectors.ipynb">Language Exploration Using Vector Space Models</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/DynamicProgramming.ipynb">Solving Problems With Dynamic Programming</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/ProphetForecasting.ipynb">Time Series Forecasting With Prophet</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/ProphetForecasting.ipynb">Time Series Forecasting With Prophet</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/misc/MarkovChains.ipynb">Markov Chains From Scratch</a>
