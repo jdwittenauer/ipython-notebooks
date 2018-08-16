@@ -65,6 +65,18 @@ Lab exercises for the original Spark classes on edX.
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-ML-Lab4-CriteoPrediction.ipynb">ML Lab 4 - Click-Through Rate Prediction</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/spark/Spark-ML-Lab5-NeuroPCA.ipynb">ML Lab 5 - Principal Component Analysis</a>
 
+### Fast.ai Lessons
+
+Notebooks from Jeremy Howard's fast.ai class.
+
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson1.ipynb">Lesson 1 - Image Classification</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson2.ipynb">Lesson 2 - Multi-label Classification</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson3.ipynb">Lesson 3 - Structured And Time Series Data</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson4.ipynb">Lesson 4 - Sentiment Classification</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson5.ipynb">Lesson 5 - Recommendation Using Deep Learning</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson6.ipynb">Lesson 6 - Language Modeling With RNNs</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson7.ipynb">Lesson 7 - Convolutional Networks In Detail</a>
+
 #### Misc
 
 Notebooks covering various interesting topics!
