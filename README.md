@@ -77,6 +77,12 @@ Notebooks from Jeremy Howard's fast.ai class.
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson6.ipynb">Lesson 6 - Language Modeling With RNNs</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/fastai/Fastai-Lesson7.ipynb">Lesson 7 - Convolutional Networks In Detail</a>
 
+### Deep Learning With Keras
+
+Notebooks using Keras to implement deep learning models.  Inspired by fast.ai content.
+
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/StructuredTimeSeries.ipynb">Part 1 - Structured And Time Series Data</a>
+
 #### Misc
 
 Notebooks covering various interesting topics!
