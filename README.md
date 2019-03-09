@@ -84,8 +84,9 @@ Notebooks using Keras to implement deep learning models.
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/StructuredTimeSeries.ipynb">Part 1 - Structured And Time Series Data</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/ConvolutionalNetworks.ipynb">Part 2 - Convolutional Networks</a><br/>
 <a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/RecommenderSystems.ipynb">Part 3 - Recommender Systems</a><br/>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/RecurrentNetworks.ipynb">Part 4 - Recurrent Networks</a>
-<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/AnomalyDetection.ipynb">Part 5 - Anomaly Detection</a>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/RecurrentNetworks.ipynb">Part 4 - Recurrent Networks</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/AnomalyDetection.ipynb">Part 5 - Anomaly Detection</a><br/>
+<a href="http://nbviewer.ipython.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/keras/GenerativeAdversarialNetworks.ipynb">Part 6 - Generative Adversarial Networks</a>
 
 #### Misc
 
